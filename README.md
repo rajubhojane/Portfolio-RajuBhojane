@@ -4,7 +4,7 @@
 
 🎨 A modern, responsive portfolio website to showcase my projects, skills, and achievements.
 
-
+'''
 Portfolio/
 ├── 📁 css/                # Contains all CSS files for styling
 │   ├── 📁 skins/          # Custom color themes
@@ -16,7 +16,7 @@ Portfolio/
 │   └── script.js          # Main JavaScript file for functionality
 ├── 📄 index.html          # Main HTML file for the website
 └── 📄 README.md           # Project documentation
-
+'''
 
 
 🚀 Technologies Used
